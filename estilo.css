@@ -1,0 +1,19 @@
+html { 
+    font-family: 'Open Sans', sans-serif; 
+    display: block; 
+    margin: 0px auto; 
+    text-align: center;
+    color: #000000;
+}
+
+body{
+    margin-top: 50px; 
+    background-color: #962bcc; 
+    color: white;
+}
+
+.temperatura{
+
+    height: 50px;
+    width: 50px;
+}
